@@ -8,7 +8,7 @@ bool closed = false;
 
 // Correct initialization of arrays
 int user[5] = {0, 0, 0, 0, 0};
-int correct[5] = {3, 1, 4, 1, 1};
+int correct[5] = {3, 1, 4, 1, 5};
 
 int count = 0;
 
